@@ -1,0 +1,10 @@
+Can someone help me?
+
+Assignment
+
+my string: 20191124080
+MD5 Hash: 0938ac03ed402b7bc368eec68a892bff
+
+1.The first half is your 64-bit Key and second half is your 64-bit Plaintext Hex.
+2.Show DES Key Generation and Encryption from Round 1 to 5.
+3.Show DES Decryption from Round 2 to Plaintext Hex
